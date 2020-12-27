@@ -1,0 +1,1 @@
+Please use pip install xpinyin first, or we can't scrape the data.
